@@ -7,7 +7,7 @@ This example shows the use of AWS serverless framework, with `serverless-wsgi` (
 - Install `docker` (only required for local testing or `dockerizePip`)
     - Share your `C:` drive or where you have your python packages in `docker` using `WSL 1.0`
 - Run `setup.bat`
-- Setup your aws credentials in `~/.aws/credentials`
+- Setup your aws profile credentials in `~/.aws/credentials`
 - Run `deploy_sls.bat`
 
 ## Recommended Readings
