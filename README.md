@@ -9,3 +9,14 @@ This example shows the use of AWS serverless framework, with `serverless-wsgi` (
 - Run `setup.bat`
 - Setup your aws credentials in `~/.aws/credentials`
 - Run `deploy_sls.bat`
+
+## Recommended Readings
+
+- [The Official Guide to Serverless Flask](https://www.serverless.com/flask)
+- [Build a Python REST API with Serverless, Lambda, and DynamoDB](https://www.serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodbsing-the-quick-start-template)
+- [How to Test Serverless Applications](https://www.serverless.com/blog/how-test-serverless-applications)
+- [Stages in Serverless Framework](https://serverless-stack.com/chapters/stages-in-serverless-framework.htm)
+- [Using a private Python package as a dependency](https://stackoverflow.com/questions/50471802/serverless-using-a-private-python-package-as-a-dependency)
+- Plugins
+    - [Serverless WSGI](https://www.serverless.com/plugins/serverless-wsgi)
+    - [Serverless Python Requirements](https://www.serverless.com/plugins/serverless-python-requirements)
