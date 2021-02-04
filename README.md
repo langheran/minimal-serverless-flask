@@ -18,5 +18,5 @@ This example shows the use of AWS serverless framework, with `serverless-wsgi` (
 - [Stages in Serverless Framework](https://serverless-stack.com/chapters/stages-in-serverless-framework.htm)
 - [Using a private Python package as a dependency](https://stackoverflow.com/questions/50471802/serverless-using-a-private-python-package-as-a-dependency)
 - Plugins
-    - [Serverless WSGI](https://www.serverless.com/plugins/serverless-wsgi)
     - [Serverless Python Requirements](https://www.serverless.com/plugins/serverless-python-requirements)
+    - [Serverless WSGI](https://www.serverless.com/plugins/serverless-wsgi)
