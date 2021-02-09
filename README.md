@@ -8,6 +8,10 @@ This example shows the use of `Serverless Framework` &mdash; a _CloudFormation-b
     - Share your `C:` drive or where you have your python packages in `docker` using `WSL 1.0`
 - Run `setup.bat`
 - Setup your aws profile credentials in `~/.aws/credentials`
+- If you have private repositories add the following to `requirements.txt`:
+    ```
+    git+{{url_en_github}}@{{branch}}#egg={{nombre_del_paquete_a_instalar}}&subdirectory={{subdirectorio/relativo/tomando/como/base/la/raiz/del/proyecto/hasta/el/setup.py/del/paquete}}
+    ```
 - Run `deploy_sls.bat`
 
 ## Recommended Readings
